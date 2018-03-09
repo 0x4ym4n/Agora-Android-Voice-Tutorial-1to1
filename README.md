@@ -1,6 +1,6 @@
 # Agora Android Voice Tutorial - 1to1
 
-*其他语言版本： [简体中文](README.md)*
+*其他语言版本： [简体中文](README.zh.md)*
 
 The Agora Android Voice Tutorial for Swift 1to1 Sample App is an open-source demo that will help you get voice chat integrated directly into your Android applications using the Agora Voice SDK.
 
