@@ -28,6 +28,7 @@ You can find demo for iOS here:
 - The recommended way to integrate:
 
 Add the address which can integrate the Agora Voice SDK automatically through JCenter in the property of the dependence of the "app/build.gradle":
+
 ```
 compile 'io.agora.rtc:voice-sdk:2.2.0'
 ```
